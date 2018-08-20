@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ADBCoursework1.dir/ADBCoursework1.cpp.o CMakeFiles/ADBCoursework1.dir/Yelp-odb.cxx.o  -o ADBCoursework1 -lodb -lodb-mssql 

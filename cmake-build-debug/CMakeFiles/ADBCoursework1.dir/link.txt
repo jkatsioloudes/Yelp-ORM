@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ADBCoursework1.dir/ADBCoursework1.cpp.o CMakeFiles/ADBCoursework1.dir/Yelp-odb.cxx.o  -o ADBCoursework1 -lodb -lodb-mssql 

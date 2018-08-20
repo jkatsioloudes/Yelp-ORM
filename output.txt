@@ -1,0 +1,15 @@
+findHours Test 1: failed
+findHours Test 2: passed
+findHours Test 3: passed
+countStars Test 1: passed
+countStars Test 2: passed
+Run number 0 time before indexing: 1813146
+Run number 1 time before indexing: 1793651
+Run number 2 time before indexing: 1712655
+Run number 3 time before indexing: 1815484
+Run number 4 time before indexing: 1735434
+ Run number 0 time after indexing: 1249982
+ Run number 1 time after indexing: 1197680
+ Run number 2 time after indexing: 1150985
+ Run number 3 time after indexing: 1183820
+ Run number 4 time after indexing: 1198153

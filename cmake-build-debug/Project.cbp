@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ADBCoursework1">
+				<Option output="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/ADBCoursework1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug"/>
+					<Add directory="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ADBCoursework1"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ADBCoursework1/fast">
+				<Option output="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/ADBCoursework1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug"/>
+					<Add directory="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ADBCoursework1/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ODBHeaders">
+				<Option working_dir="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ODBHeaders"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/jk/Google\ Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/ADBCoursework1.cpp">
+			<Option target="ADBCoursework1"/>
+		</Unit>
+		<Unit filename="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/Yelp.hpp">
+			<Option target="ODBHeaders"/>
+		</Unit>
+		<Unit filename="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/cmake-build-debug/Yelp-odb.cxx">
+			<Option target="ADBCoursework1"/>
+		</Unit>
+		<Unit filename="/Users/jk/Google Drive/University/CURRY3/ADB/CW/adb_cw1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
