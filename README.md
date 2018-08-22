@@ -35,3 +35,7 @@ This is similar to dictionaries that allow fast and efficient search for element
 ### Performance Observations
 
 Vectors are good for aggregation because they allow updates on the elements they contain because the aggregates become the elements of the vector while the positions are used as implicit keys.  However this requires to ensure that the size of the vector is greater than the index of the accessed element.  If the maximum group value is known when writing the program, the vector can be then constructed with a pre-specified space.
+
+## Note
+In this repo there exists a subset of my work, often intentionally broken or misleading to avoid disrespectful people from copying and
+pasting.
